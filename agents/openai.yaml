@@ -1,0 +1,3 @@
+interface:
+  display_name: "Manuscript Revision and Reviewer Response"
+  short_description: "Draft reviewer replies and verify manuscript line references"
